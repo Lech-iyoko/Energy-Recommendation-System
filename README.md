@@ -1,7 +1,7 @@
 <<<<<<<
 # Energy-Recommendation-System
 
-## A machine learning model to show how to optimiese energy bills and usage by recommending when to do energy-intensive activities
+## A machine learning model to analyse global energy consumption data and renewable generation to recommend optimal energy sources for users
 
 A beginner friendly Data science and machine learing project 
 
