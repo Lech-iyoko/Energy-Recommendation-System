@@ -5,13 +5,13 @@
 
 A beginner friendly Data science and machine learing project 
 
-* Download online dataset "House consumption model" from Kaggle
-* Manipulate and Visualise data using pandas to understand off-peak and peak energy usage times
+* Use the online dataset "Global Consumption & Renewable Generation Data" from Kaggle
+* Manipulate and Visualise data using pandas to analyse Global Energy Trends
 * Test optimal machine learning algorithms such as Linear Regression, XGBoost, or Random Forest to Predict energy consumption 
-* Recommend performing energy intensive activities during these off-peak times of the day
-* Optimse Energy usage and expense Bills
+* Recommend optimal energy sources based on data
+* Evaluate Renewable Adoption Rates
 =======
 " Energy-Recommendation-System" 
 
-" A machine learning model to show how to optimiese energy bills and usage by recommending when to do energy-intensive activities"
+" A machine learning model to show how to comparing energy usage between renewables and non-renewable sources of energy"
 >>>>>>> 
