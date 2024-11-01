@@ -10,7 +10,7 @@ A beginner friendly Data science and machine learing project
 * Test optimal machine learning algorithms such as Linear Regression, XGBoost, or Random Forest to Predict energy consumption 
 * Recommend optimal energy sources based on data
 * Evaluate Renewable Adoption Rates
-=======
+
 " Energy-Recommendation-System" 
 
 " A machine learning model to show how to comparing energy usage between renewables and non-renewable sources of energy"
